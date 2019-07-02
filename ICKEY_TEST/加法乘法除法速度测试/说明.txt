@@ -1,1 +1,2 @@
-计时要用到定时器计数，需要delay库的getTick函数，把5号定时器用掉了
+SWM320的delay库的计时要用到定时器5
+添加了arduino和stm32f0到对照组
